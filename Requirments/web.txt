@@ -1,0 +1,16 @@
+# Web Frameworks
+django
+flask
+fastapi
+
+# Networking & Scraping
+requests
+beautifulsoup4
+scrapy
+aiohttp
+httpx
+websockets
+
+# WSGI/ASGI Servers
+gunicorn
+uvicorn
