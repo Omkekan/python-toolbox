@@ -1,0 +1,76 @@
+# == Web Development & Networking ==
+django
+flask
+fastapi
+requests
+beautifulsoup4
+scrapy
+aiohttp
+httpx
+websockets
+gunicorn
+uvicorn
+
+# == Data Science & Machine Learning ==
+numpy
+pandas
+polars
+scikit-learn
+tensorflow
+torch
+keras
+xgboost
+lightgbm
+catboost
+transformers
+spacy
+nltk
+matplotlib
+seaborn
+plotly
+streamlit
+gradio
+mlflow
+
+# == Scientific & Numerical Computing ==
+scipy
+sympy
+numba
+
+# == GUI & Game Development ==
+PyQt6
+pygame
+
+# == Image, Video & Audio Processing ==
+Pillow
+opencv-python
+scikit-image
+moviepy
+pydub
+
+# == Database ==
+SQLAlchemy
+psycopg2-binary
+asyncpg
+redis
+
+# == Testing ==
+pytest
+pytest-cov
+hypothesis
+tox
+
+# == Command-Line Interfaces (CLI) ==
+click
+typer
+rich
+tqdm
+
+# == Utilities, DevOps & Automation ==
+python-dotenv
+celery
+pydantic
+selenium
+ruff
+pre-commit
+loguru
