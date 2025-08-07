@@ -19,7 +19,7 @@ pip install -r requirements/web.txt
 To install all the libraries listed in this collection, run:
 
 ```
-pip install -r requirements-all.txt
+pip install -r requirements_all.txt
 ```
 
 ## 📚 Libraries by Category
