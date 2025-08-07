@@ -1,0 +1,30 @@
+# Data Analysis & Manipulation
+numpy
+pandas
+polars
+
+# ML / DL Frameworks
+scikit-learn
+tensorflow
+torch
+keras
+
+# Gradient Boosting
+xgboost
+lightgbm
+catboost
+
+# NLP
+transformers
+spacy
+nltk
+
+# Visualization & App Building
+matplotlib
+seaborn
+plotly
+streamlit
+gradio
+
+# MLOps
+mlflow
