@@ -1,0 +1,6 @@
+# Image, Video & Audio Processing
+Pillow
+opencv-python
+scikit-image
+moviepy
+pydub
