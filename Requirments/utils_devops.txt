@@ -1,0 +1,8 @@
+# Utilities, DevOps & Automation
+python-dotenv
+celery
+pydantic
+selenium
+ruff
+pre-commit
+loguru
