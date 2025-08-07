@@ -1,0 +1,7 @@
+# GUI & Game Development
+PyQt6
+pygame
+# Note: Tkinter is built-in
+PySide6 
+kivy 
+arcade
